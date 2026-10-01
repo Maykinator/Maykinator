@@ -5,7 +5,7 @@
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E60012&center=true&vCenter=true&width=520&lines=Desenvolvedor+Web+%7C+Campo+Grande+-+MS;Java+%C2%B7+PHP+%C2%B7+JavaScript;Em+busca+da+minha+primeira+vaga+em+TI)
 
 [![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-000000?style=for-the-badge&logo=vercel&logoColor=E60012)](https://portfolio-persona-six.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-E60012?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE-SEU-LINKEDIN-AQUI)
+[![LinkedIn](www.linkedin.com/in/maykel-ribeiro-guppi-186805384)
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=E60012)](mailto:SEU-EMAIL-AQUI)
 
 </div>
