@@ -28,7 +28,7 @@ completas, do banco de dados à interface. Nas horas vagas, toco guitarra e jogo
 ## 🗼 Andares do Tartarus (projetos)
 - **[Ache Aqui](LINK-DO-REPOSITORIO)**: plataforma web para registrar itens perdidos e achados.
 - **[Portfólio](https://github.com/Maykinator/portfolio-persona)**: portfólio no tema Persona 3 Reload.
-- **[Diário de Músicas](https://github.com/Maykinator/diario-de-musicas)**: aplicação em PHP.
+- **[Controle de Finanças](https://app-financeiro-gold-two.vercel.app/)**: aplicação em JavaScript.
 
 ## 🤝 Social Link
 Aberto a vagas de desenvolvedor júnior, presenciais em Campo Grande ou remotas.
